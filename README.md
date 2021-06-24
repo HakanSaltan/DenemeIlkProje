@@ -1,3 +1,3 @@
 # DenemeIlkProje
 
-Merhabalar ben hakan
+Merhabalar ben Hakan
